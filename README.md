@@ -10,6 +10,7 @@ I've been passionate about technology for a few years now. From the challenges a
 - 🔭 I’m currently working on a chatbot for whatsapp
 - 🌱 I’m currently learning the best practices to work with JavaScript
 - ⚡ Fun fact: My first contact with a programming language I was about 14 years old, with JavaScript for a short period of time. After 5 years I decided to start learning how to code for real. From C, Python, then Java and finally JavaScript all over again.
+- Latest Project <a href="https://athena-project-manager.vercel.app/login">Athena Project Manager</a> - <a href="https://github.com/Luizfernando5212/task-manager">Task Manager Repo</a>
 
 ### Contact me
 <div id="badges">
